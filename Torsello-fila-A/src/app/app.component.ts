@@ -10,5 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'Torsello-fila-A';
-  name = 'app';
+  name: string = 'app';
 }
