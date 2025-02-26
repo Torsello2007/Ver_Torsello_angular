@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-quarto',
+  selector: 'app-fourth',
   standalone : true,
   imports: [],
   templateUrl: './quarto.component.html',
